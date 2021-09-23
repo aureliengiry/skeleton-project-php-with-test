@@ -1,0 +1,1 @@
+# skeleton-project-php-with-test
